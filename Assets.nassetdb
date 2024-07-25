@@ -1,78 +1,12 @@
 {
-    "0250122d-d3b9-73a3-318d-d79e41a9bac9": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/SK_Abstract_Red.scene.nasset/SK Abstract Red.mesh.nasset/SK Abstract Red Brown.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "f83b9742-78a2-c5c8-acc9-8515a4743d5d",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "1077cab5-931b-2daa-427a-a6afe087ed59": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/SK_Abstract_Red.scene.nasset/SK Abstract Red.mesh.nasset/SK Abstract Red Red.meshskin.nasset",
-        "dependencies": [
-            "df2bd4d9-2ff3-e320-6b2f-efa9a7d4037d",
-            "cafa2059-c3a5-bab3-bf36-9392358d349b",
-            "30ca4700-0211-40b3-5c6e-70324c535a9a"
-        ]
-    },
     "143a4146-b109-4cf6-a680-707507e76b4b": {
         "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
         "componentTypeGuid": "2a2bce0a-6314-481b-a5a0-7d01e1c00b35",
         "path": "Assets/Abstract.scene.nasset"
     },
-    "2cff7308-5761-8627-c6df-d05237cb32cb": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/SK_Abstract_Red.scene.nasset/SK_Abstract_Red.scene.nasset",
-        "dependencies": [
-            "9e4f7a9c-1ea8-81b0-86f1-661c37e3e5d8"
-        ]
-    },
-    "2e5a1a97-6330-722b-6366-8d9cbca2d10d": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Material Instances/White.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
     "2e7c4915-7798-a3bb-a787-e12f14bb0079": {
         "assetTypeGuid": "77b22fc4-d109-4dd3-a922-38388879fc90",
         "path": "Assets.nassetdb"
-    },
-    "30ca4700-0211-40b3-5c6e-70324c535a9a": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Material Instances/Red.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "34ffd8f2-177f-115d-4083-a02325b92233": {
-        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
-        "path": "Assets/Thumbnail/Abstract_Thumb.tex.nasset"
-    },
-    "3b53eb0e-b032-ae98-6b2e-cd84ffa75692": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/SK_Abstract_Red.scene.nasset/SK Abstract Red.mesh.nasset/SK Abstract Red White.meshskin.nasset",
-        "dependencies": [
-            "bd0cb53d-e35c-928f-60de-841f756bcb11",
-            "cafa2059-c3a5-bab3-bf36-9392358d349b",
-            "2e5a1a97-6330-722b-6366-8d9cbca2d10d"
-        ]
-    },
-    "44bcf055-fe0f-438f-a086-4c8e68d87cb5": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animations/Abstract_Jump.anim.nasset",
-        "dependencies": [
-            "cafa2059-c3a5-bab3-bf36-9392358d349b"
-        ]
     },
     "67f41d72-fcd4-405e-a973-95b3c4bd14c4": {
         "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
@@ -83,95 +17,45 @@
             "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9"
         ]
     },
-    "8554ccf3-5865-41cc-a4cd-6eb299a1050d": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animations/Abstract_Idle.anim.nasset",
-        "dependencies": [
-            "cafa2059-c3a5-bab3-bf36-9392358d349b"
-        ]
-    },
-    "9e4f7a9c-1ea8-81b0-86f1-661c37e3e5d8": {
-        "assetTypeGuid": "abcf5a98-c556-41bb-b7ac-a5c6ea9dd85c",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/SK_Abstract_Red.scene.nasset/SK Abstract Red.mesh.nasset/SK Abstract Red.mesh.nasset",
-        "tags": [
-            "3db9a07a-f18a-4fe6-87e9-999ef466091a"
-        ],
-        "dependencies": [
-            "2e5a1a97-6330-722b-6366-8d9cbca2d10d",
-            "bd0cb53d-e35c-928f-60de-841f756bcb11",
-            "3b53eb0e-b032-ae98-6b2e-cd84ffa75692",
-            "30ca4700-0211-40b3-5c6e-70324c535a9a",
-            "df2bd4d9-2ff3-e320-6b2f-efa9a7d4037d",
-            "1077cab5-931b-2daa-427a-a6afe087ed59",
-            "f83b9742-78a2-c5c8-acc9-8515a4743d5d",
-            "0250122d-d3b9-73a3-318d-d79e41a9bac9",
-            "ddcfa3d6-e702-f7e9-075a-d42c5776bba1",
-            "cafa2059-c3a5-bab3-bf36-9392358d349b"
-        ]
-    },
-    "bd0cb53d-e35c-928f-60de-841f756bcb11": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/SK_Abstract_Red.scene.nasset/SK Abstract Red.mesh.nasset/SK Abstract Red White.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "2e5a1a97-6330-722b-6366-8d9cbca2d10d",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "c068daa0-790f-4d98-b97f-f0fb72b5a95b": {
-        "assetTypeGuid": "2d002e95-6d4f-48be-9c62-8cea8f1e7ca9",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/Animations/Abstract_Walk.anim.nasset",
-        "dependencies": [
-            "cafa2059-c3a5-bab3-bf36-9392358d349b"
-        ]
-    },
-    "c87eec22-3b88-10b5-2ef6-404248c34975": {
-        "assetTypeGuid": "807d69a9-56ec-4032-bb92-d081df336672",
-        "componentTypeGuid": "0c3f4f29-0d53-4878-922a-cca7d6af7bb6",
-        "path": "Assets/Characters/Abstract Red.scene.nasset",
-        "tags": [
-            "7f567180-238f-4a1b-bcbf-fcd740c8a9ea"
-        ]
-    },
-    "cafa2059-c3a5-bab3-bf36-9392358d349b": {
-        "assetTypeGuid": "d36708f1-71f9-4334-8146-62c743c39970",
-        "componentTypeGuid": "f6140603-c29e-4bf9-946d-498dba6709ff",
-        "path": "Assets/Characters/SK_Abstract_Red.scene.nasset/SK Abstract Red.mesh.nasset/Skeletons/RootNode.skel.nasset"
-    },
-    "ddcfa3d6-e702-f7e9-075a-d42c5776bba1": {
-        "assetTypeGuid": "3f5ab03e-bca9-4a4a-a864-e539033ad66c",
-        "componentTypeGuid": "e7a94bbc-9e75-47fe-8279-322b9f7a207f",
-        "path": "Assets/Characters/SK_Abstract_Red.scene.nasset/SK Abstract Red.mesh.nasset/SK Abstract Red Brown.meshskin.nasset",
-        "dependencies": [
-            "0250122d-d3b9-73a3-318d-d79e41a9bac9",
-            "cafa2059-c3a5-bab3-bf36-9392358d349b",
-            "f83b9742-78a2-c5c8-acc9-8515a4743d5d"
-        ]
-    },
-    "df2bd4d9-2ff3-e320-6b2f-efa9a7d4037d": {
-        "assetTypeGuid": "3418a661-1034-40c4-9e40-04221b1177df",
-        "componentTypeGuid": "de8f8da2-d37f-41da-bc6e-580435fe605f",
-        "path": "Assets/Characters/SK_Abstract_Red.scene.nasset/SK Abstract Red.mesh.nasset/SK Abstract Red Red.mesh.nasset",
-        "tags": [
-            "7ca7cada-5d08-47d9-8e4f-8a98676acb11"
-        ],
-        "dependencies": [
-            "30ca4700-0211-40b3-5c6e-70324c535a9a",
-            "db5dc618-2cfe-44e9-a319-69c503d090e7"
-        ]
-    },
-    "f83b9742-78a2-c5c8-acc9-8515a4743d5d": {
-        "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
-        "path": "Assets/Characters/Material Instances/Brown.mtli.nasset",
-        "dependencies": [
-            "a897cdfa-a65f-4222-a5ab-d64df68c17b6"
-        ]
-    },
-    "guid": "2e7c4915-7798-a3bb-a787-e12f14bb0079"
+    "guid": "2e7c4915-7798-a3bb-a787-e12f14bb0079",
+    "imported_assets": [
+        "11965b04-1524-c377-93bd-88c3356976ab",
+        "11c8d6c8-fc9e-cd40-6f3e-cfe06e23bc04",
+        "14a34990-c7a5-edd2-644a-47df29d97bb4",
+        "16656db6-ecbe-b175-23c2-e0b2cb0d00a6",
+        "186f2d6d-5db4-aa62-8b53-6f8e93ed8e94",
+        "1ff3e512-5dd1-9fbc-9614-fb6d7f66c670",
+        "2ad5a8a5-1834-72fd-febd-79cb430ccf39",
+        "32c93fb4-a641-c43d-6204-3f956bb7cc7b",
+        "34ffd8f2-177f-115d-4083-a02325b92233",
+        "37805157-a34f-122b-0e48-14ba11649ee4",
+        "3c7b0b64-9eb4-8d8c-3393-d926532c7961",
+        "3e6313f3-9c79-a741-a082-74ac9809fe90",
+        "4080fc7f-b811-0dae-4da1-5d357ff2c55b",
+        "4ccf122f-2b9f-8527-f3e7-d52d2e65a754",
+        "4fb0644f-9b59-18ae-8896-2d61b901874d",
+        "5350abd2-0899-4e15-505a-80383bcf914d",
+        "568fce81-52a9-056b-122a-598f902c544b",
+        "5b704a41-0b88-b585-c8cb-636acd0d70e8",
+        "5b8e571b-fb59-096d-12cc-29ee460a5877",
+        "78ca3528-eeb5-5044-b5db-64d422c6f2ad",
+        "8273cf17-f123-434a-4fc1-7b20ad6b5e29",
+        "98e311a0-b02f-f2f6-30fe-ce869d65ce5f",
+        "9bc185e8-02ac-e686-f5c3-9b61ec541eeb",
+        "a10a87fa-3973-1579-6e49-060909fbb979",
+        "a7cd5682-b570-81db-b930-a9af10ece289",
+        "b34e1b6b-895e-e6eb-ff48-072776d4256c",
+        "b6480e36-c7da-9312-0804-9f1089f1304a",
+        "c0ea0958-67d6-fe1c-0e36-ff634de64d1b",
+        "c63974c0-cbce-0985-db3d-4b19194a3d49",
+        "cb312c24-dd30-0b46-80ce-34f5b29b8a7b",
+        "d0f5657d-a1bd-e393-9e6e-27588a271fdf",
+        "d547e4db-a5ad-9c40-9378-77412956a59b",
+        "dccd4353-3049-62b7-335d-4340e7d12629",
+        "e204d1a0-a9ed-d45d-1bf8-bebd183504d4",
+        "e9013530-d433-0080-2f5f-9f7e80203f86",
+        "eada9885-142f-1393-2b27-e6c135381f27",
+        "f8220b2a-a593-37ba-3d29-aa9dbbe7be86",
+        "fe1247f3-993d-470a-e1a5-acc2843611e5"
+    ]
 }
